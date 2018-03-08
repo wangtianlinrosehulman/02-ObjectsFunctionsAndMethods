@@ -59,7 +59,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #            Draw ALL the objects attached to this window
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
-#            after drawing everything at last. after this method, clicking mouse will close window
+#            after drawing everything at last. after this method, or the window will directly close
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
